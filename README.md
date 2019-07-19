@@ -7,7 +7,7 @@
 - [词法作用域](https://github.com/liangfengbo/js-basics/issues/3)
 - [作用域链](https://github.com/liangfengbo/js-basics/issues/4)
 - [this](https://github.com/liangfengbo/js-basics/issues/5)
-- 闭包
+- [闭包](https://github.com/liangfengbo/js-basics/issues/6)
 - 模拟实现call和apply方法
 - 模拟实现bind方法
 - 实现浅拷贝和深拷贝
