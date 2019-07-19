@@ -5,7 +5,7 @@
 - [执行上下文](https://github.com/liangfengbo/js-basics/issues/1)
 - [变量对象](https://github.com/liangfengbo/js-basics/issues/2)
 - [词法作用域](https://github.com/liangfengbo/js-basics/issues/3)
-- 作用域链
+- [作用域链](https://github.com/liangfengbo/js-basics/issues/4)
 - 函数
 - this
 - 闭包
