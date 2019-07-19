@@ -6,6 +6,7 @@
 - [变量对象](https://github.com/liangfengbo/js-basics/issues/2)
 - [词法作用域](https://github.com/liangfengbo/js-basics/issues/3)
 - 作用域链
+- 函数
 - this
 - 闭包
 - 模拟实现call和apply方法
