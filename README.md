@@ -20,6 +20,7 @@
 - [原型](https://github.com/liangfengbo/js-basics/issues/9)
 - [原型链](https://github.com/liangfengbo/js-basics/issues/8)
 - [继承](https://github.com/liangfengbo/js-basics/issues/7)
+- [封装DOM查询](https://github.com/liangfengbo/js-basics/issues/11)
 - 实现JSON.stringify及JSON.parse方法
 - 如何判断两个对象相等
 
