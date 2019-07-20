@@ -16,11 +16,10 @@
 
 ## 对象
 - 对象
-- 原型
-- 原型链
+- [构造函数](https://github.com/liangfengbo/js-basics/issues/10)
+- [原型](https://github.com/liangfengbo/js-basics/issues/9)
+- [原型链](https://github.com/liangfengbo/js-basics/issues/8)
 - [继承](https://github.com/liangfengbo/js-basics/issues/7)
-- 模拟实现instanceof
-- 模拟实现new操作符
 - 实现JSON.stringify及JSON.parse方法
 - 如何判断两个对象相等
 
