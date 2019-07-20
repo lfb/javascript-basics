@@ -15,7 +15,7 @@
 - 实现事件的防抖和节流
 
 ## 对象
-- 对象
+- [对象](https://github.com/liangfengbo/js-basics/issues/12)
 - [构造函数](https://github.com/liangfengbo/js-basics/issues/10)
 - [原型](https://github.com/liangfengbo/js-basics/issues/9)
 - [原型链](https://github.com/liangfengbo/js-basics/issues/8)
