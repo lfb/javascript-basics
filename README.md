@@ -10,7 +10,7 @@
 - [闭包](https://github.com/liangfengbo/js-basics/issues/6)
 - 模拟实现call和apply方法
 - 模拟实现bind方法
-- 实现浅拷贝和深拷贝
+- [实现浅拷贝和深拷贝](https://github.com/liangfengbo/js-basics/issues/13)
 - 实现jQuery的extend方法
 - 实现事件的防抖和节流
 
