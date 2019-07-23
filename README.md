@@ -8,7 +8,7 @@
 - [作用域链](https://github.com/liangfengbo/js-basics/issues/4)
 - [this](https://github.com/liangfengbo/js-basics/issues/5)
 - [闭包](https://github.com/liangfengbo/js-basics/issues/6)
-- [模拟实现call和apply方法](https://github.com/liangfengbo/js-basics/issues/3)
+- [模拟实现call和apply方法](https://github.com/liangfengbo/js-basics/issues/14)
 - 模拟实现bind方法
 - [实现浅拷贝和深拷贝](https://github.com/liangfengbo/js-basics/issues/13)
 - 实现jQuery的extend方法
