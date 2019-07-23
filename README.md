@@ -2,27 +2,30 @@
 深入浅出JavaScript的基础知识（Understand the basics of JavaScript）
 
 ## 作用域
-- [执行上下文](https://github.com/liangfengbo/js-basics/issues/1)
-- [变量对象](https://github.com/liangfengbo/js-basics/issues/2)
-- [词法作用域](https://github.com/liangfengbo/js-basics/issues/3)
-- [作用域链](https://github.com/liangfengbo/js-basics/issues/4)
-- [this](https://github.com/liangfengbo/js-basics/issues/5)
-- [闭包](https://github.com/liangfengbo/js-basics/issues/6)
-- [模拟实现call和apply方法](https://github.com/liangfengbo/js-basics/issues/14)
-- 模拟实现bind方法
-- [实现浅拷贝和深拷贝](https://github.com/liangfengbo/js-basics/issues/13)
-- 实现jQuery的extend方法
-- 实现事件的防抖和节流
+- [JavaScript基础 - 执行上下文 »](https://github.com/liangfengbo/js-basics/issues/1)
+- [JavaScript基础 - 变量对象 »](https://github.com/liangfengbo/js-basics/issues/2)
+- [JavaScript基础 - 词法作用域 »](https://github.com/liangfengbo/js-basics/issues/3)
+- [JavaScript基础 - 作用域链 »](https://github.com/liangfengbo/js-basics/issues/4)
+- [JavaScript基础 - this »](https://github.com/liangfengbo/js-basics/issues/5)
+- [JavaScript基础 - 闭包 »](https://github.com/liangfengbo/js-basics/issues/6)
+
 
 ## 对象
-- [对象](https://github.com/liangfengbo/js-basics/issues/12)
-- [构造函数](https://github.com/liangfengbo/js-basics/issues/10)
-- [原型](https://github.com/liangfengbo/js-basics/issues/9)
-- [原型链](https://github.com/liangfengbo/js-basics/issues/8)
-- [继承](https://github.com/liangfengbo/js-basics/issues/7)
-- [封装DOM查询](https://github.com/liangfengbo/js-basics/issues/11)
-- 实现JSON.stringify及JSON.parse方法
+- [JavaScript基础 - 对象 »](https://github.com/liangfengbo/js-basics/issues/12)
+- [JavaScript基础 - 构造函数 »](https://github.com/liangfengbo/js-basics/issues/10)
+- [JavaScript基础 - 原型 »](https://github.com/liangfengbo/js-basics/issues/9)
+- [JavaScript基础 - 原型链 »](https://github.com/liangfengbo/js-basics/issues/8)
+- [JavaScript基础 - 继承 »](https://github.com/liangfengbo/js-basics/issues/7)
+
+## 模拟实现
+- [封装DOM查询 »](https://github.com/liangfengbo/js-basics/issues/11)
+- [实现浅拷贝和深拷贝 »](https://github.com/liangfengbo/js-basics/issues/13)
+- [模拟实现call和apply方法 »](https://github.com/liangfengbo/js-basics/issues/14)
+- 模拟实现bind方法
 - 如何判断两个对象相等
+- 实现jQuery的extend方法
+- 实现JSON.stringify及JSON.parse方法
+- 实现事件的防抖和节流
 
 ## 异步
 - Event Loop
