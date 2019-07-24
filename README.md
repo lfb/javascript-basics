@@ -42,3 +42,7 @@
 - 数组扁平化
 - 快排
 - 二分查找
+
+## 算法
+- [JavaScript冒泡排序 »](https://github.com/liangfengbo/js-basics/issues/18)
+- [JavaScript选择排序 »](https://github.com/liangfengbo/js-basics/issues/19)
