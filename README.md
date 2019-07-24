@@ -22,10 +22,10 @@
 - [实现浅拷贝和深拷贝 »](https://github.com/liangfengbo/js-basics/issues/13)
 - [模拟实现call和apply方法 »](https://github.com/liangfengbo/js-basics/issues/14)
 - [模拟实现bind方法 »](https://github.com/liangfengbo/js-basics/issues/15)
+- [实现事件的防抖和节流 »](https://github.com/liangfengbo/js-basics/issues/20)
 - 如何判断两个对象相等
 - 实现jQuery的extend方法
 - 实现JSON.stringify及JSON.parse方法
-- [实现事件的防抖和节流 »](https://github.com/liangfengbo/js-basics/issues/20)
 
 ## 异步
 - Event Loop
