@@ -25,7 +25,7 @@
 - 如何判断两个对象相等
 - 实现jQuery的extend方法
 - 实现JSON.stringify及JSON.parse方法
-- 实现事件的防抖和节流
+- [实现事件的防抖和节流 »](https://github.com/liangfengbo/js-basics/issues/20)
 
 ## 异步
 - Event Loop
