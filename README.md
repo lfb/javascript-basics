@@ -21,7 +21,7 @@
 - [封装DOM查询 »](https://github.com/liangfengbo/js-basics/issues/11)
 - [实现浅拷贝和深拷贝 »](https://github.com/liangfengbo/js-basics/issues/13)
 - [模拟实现call和apply方法 »](https://github.com/liangfengbo/js-basics/issues/14)
-- 模拟实现bind方法
+- [模拟实现bind方法 »](https://github.com/liangfengbo/js-basics/issues/15)
 - 如何判断两个对象相等
 - 实现jQuery的extend方法
 - 实现JSON.stringify及JSON.parse方法
