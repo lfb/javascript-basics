@@ -36,9 +36,9 @@
 - setTimeout, setInterval, requestAnimationFrame
 
 ## 数组
-- 数组
-- 数组扁平化
-- 数组去重
+- [JavaScript数组去重 »](https://github.com/liangfengbo/js-basics/issues/16)
+- [判断JavaScript变量是不是数组 »](https://github.com/liangfengbo/js-basics/issues/17)
 - 求数组的最大值和最小值
+- 数组扁平化
 - 快排
 - 二分查找
