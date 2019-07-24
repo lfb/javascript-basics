@@ -39,10 +39,10 @@
 - [JavaScript数组去重 »](https://github.com/liangfengbo/javascript-basics/issues/16)
 - [判断JavaScript变量是不是数组 »](https://github.com/liangfengbo/javascript-basics/issues/17)
 - 求数组的最大值和最小值
-- 数组扁平化
-- 快排
-- 二分查找
 
 ## 算法
 - [JavaScript冒泡排序 »](https://github.com/liangfengbo/javascript-basics/issues/18)
 - [JavaScript选择排序 »](https://github.com/liangfengbo/javascript-basics/issues/19)
+- 数组扁平化
+- 快排
+- 二分查找
